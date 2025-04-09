@@ -1,0 +1,14 @@
+i = -1
+f = 300.2
+m = 'Hello world\n'
+
+t = (12.4, 45.6, 0, 0)
+l = [1, 2, 3, 4, 5, 5]
+s = {'apple', 'banana', 'orange', 'raspberry', 'orange'}
+d = {
+    'mark': 'Ford', 
+    'type': 'Mustang',
+    'year': 1966,
+    'year': 1967,
+    'colors':['wimbledon white', 'rangoon red', 'poppy red', 'guardsman blue', 'prairie bronze']
+    }
